@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/teatapp/static/css/main.31cc4c78.css",
+    "main.js": "/teatapp/static/js/main.de909612.js",
+    "index.html": "/teatapp/index.html",
+    "main.31cc4c78.css.map": "/teatapp/static/css/main.31cc4c78.css.map",
+    "main.de909612.js.map": "/teatapp/static/js/main.de909612.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cc4c78.css",
+    "static/js/main.de909612.js"
+  ]
+}
